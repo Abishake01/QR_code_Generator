@@ -16,4 +16,4 @@ def generate_qr_code(data, filename):
     
     print("Qr Code image is Saved", filename)
     
-generate_qr_code("https://abishake.xyz","ai_law.png")
+generate_qr_code("https://maps.app.goo.gl/B6xTvfnhvrfchZLz9","Mandabam.png")

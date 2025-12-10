@@ -8,7 +8,7 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white").convert('RGB')
 
 # Add logo
-logo = Image.open("abi.jpeg")# add a image file into the same directory
+logo = Image.open("sss.jpg")# add a image file into the same directory
 logo = logo.resize((50, 50))  # Resize logo as needed
 
 # Calculate position to paste
